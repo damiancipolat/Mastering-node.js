@@ -1,4 +1,10 @@
-# Nodejs-Mastering-node.js
+# Mastering-node.js
 En este respositorio voy a ir dejando ejemplos y pruebas más avanzadas de algunos ejemplos que ire encontrando de mi lectura del libo "Mastering node.js"
 
 ![N|Solid](http://damiancipolat.com/webFiles/mastering.png)
+
+## Lista de patrones:
+
+- **Señales**
+- **Buffer**
+- **Workers**
