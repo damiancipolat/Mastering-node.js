@@ -3,7 +3,7 @@ En este respositorio voy a ir dejando ejemplos y pruebas más avanzadas de algun
 
 ![N|Solid](http://damiancipolat.com/webFiles/mastering.png)
 
-## Lista de patrones:
+## Lista de temas:
 
 - **Señales**
 - **Buffer**
