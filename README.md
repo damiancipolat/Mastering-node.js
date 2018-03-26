@@ -8,3 +8,4 @@ En este respositorio voy a ir dejando ejemplos y pruebas más avanzadas de algun
 - Señales
 - Buffer
 - Workers
+- V8 Module
