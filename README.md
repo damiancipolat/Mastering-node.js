@@ -5,6 +5,6 @@ En este respositorio voy a ir dejando ejemplos y pruebas más avanzadas de algun
 
 ## Lista de temas:
 
-- **Señales**
-- **Buffer**
-- **Workers**
+- Señales
+- Buffer
+- Workers
