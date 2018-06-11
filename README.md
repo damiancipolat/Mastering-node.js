@@ -8,6 +8,7 @@ En este respositorio voy a ir dejando ejemplos y pruebas más avanzadas de algun
 - **[Señales]**
 - Buffer
 - Workers
+- Streams
 - V8 Module
 
 [Señales]:https://github.com/damiancipolat/Mastering-node.js/tree/master/signals
